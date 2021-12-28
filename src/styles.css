@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.itemDiv {
+  background-color: yellowgreen;
+  margin: 2rem;
+  color: purple;
+  display: flex;
+  align-items: center;
+  padding-left: 12rem;
+}
