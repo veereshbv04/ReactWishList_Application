@@ -1,5 +1,5 @@
-# WishList_Application_Using_React
+# WishList_Application
 Created with CodeSandbox
 
 
-https://h2imx.csb.app/
+[Live Project](https://h2imx.csb.app/)
